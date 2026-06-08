@@ -19,7 +19,11 @@
 ---
 
 ## 📸 Part 2: Screenshots
-*(You can drag and drop your screenshots directly into the GitHub web editor right here to display them!)*
+*<img width="802" height="1600" alt="image" src="https://github.com/user-attachments/assets/01a82dc3-894d-4276-aa98-8a02c800ade1" />
+<img width="1472" height="952" alt="image" src="https://github.com/user-attachments/assets/244f72a9-6d8f-4da1-8a26-48f5169811e3" />
+
+
+
 
 ---
 
