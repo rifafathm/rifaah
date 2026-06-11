@@ -43,3 +43,7 @@ Quick Learner | Team Collaboration | Problem Solving | Creative Thinking | Adapt
 
 ### RELEVANT COURSEWORK
 Data Structures and Algorithms | Database Management System | Computer Organization and Architecture | Object-Oriented Programming | Operating Systems
+---
+
+## 📄 Original Resume (Old Version)
+[]
