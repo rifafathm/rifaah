@@ -25,5 +25,5 @@ Tested the skill across three specific test cases:
 ![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/af365bc1-a22e-48d2-a071-8919844168ef" />
 ]
 ### Claude Skill and Dashboard Workspace
-![![Uploading image.png…]()
+![<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a6a32eac-0179-4ef8-8cab-8c7b333babd3" />
 ]
